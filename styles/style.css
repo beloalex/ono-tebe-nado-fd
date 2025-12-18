@@ -29,7 +29,7 @@ h3 {
 }
 
 .header__links-list-item {
-  color: #180d0d;
+  color: #000;
   font-size: 18px;
   font-style: normal;
   font-weight: normal;
@@ -67,7 +67,7 @@ h3 {
 }
 
 .cover {
-  z-index: -1;
+  z-index: 0;
   position: relative;
   min-height: 757px;
   background-image: url(../images/cover.jpg);
